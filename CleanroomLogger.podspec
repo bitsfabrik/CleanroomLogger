@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
   CleanroomLogger is part of the Cleanroom Project from Gilt Tech.
                        DESC
 
-  s.homepage         = 'https://github.com/emaloney/CleanroomLogger'
+  s.homepage         = 'https://github.com/bitsfabrik/CleanroomLogger'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'messi' => 'philip.messlehner@bitsfabrik.com' }
-  s.source           = { :git => 'https://github.com/emaloney/CleanroomLogger.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/bitsfabrik/CleanroomLogger.git', :tag => s.version.to_s }
 
   s.swift_version               = '4.2'
   s.ios.deployment_target       = '8.0'
