@@ -13,7 +13,7 @@
 open class BasicLogConfiguration: LogConfiguration
 {
     /** The minimum `LogSeverity` supported by the configuration. */
-    open let minimumSeverity: LogSeverity
+    public let minimumSeverity: LogSeverity
 
     /** The `LogFilter`s to use when deciding whether a given `LogEntry` should
      be passed along to the receiver's `recorders`. If any filter returns
