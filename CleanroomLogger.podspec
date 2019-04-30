@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CleanroomLogger'
-  s.version          = '7.0.0'
+  s.version          = '7.0.1'
   s.summary          = 'CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant.'
   s.description      = <<-DESC
   The API provided by CleanroomLogger is designed to be readily understood by anyone familiar with packages such as CocoaLumberjack and log4j.
