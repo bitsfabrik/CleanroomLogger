@@ -32,3 +32,4 @@ undocumented.json
 Carthage/*
 !Carthage/Checkouts/
 **/Carthage/
+/fastlane/report.xml
